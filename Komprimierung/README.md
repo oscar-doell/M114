@@ -17,7 +17,7 @@ u: 1
 n: 1
 g: 1
 ### Erstellen des Huffman-Baums:
-![bild](bilder/huffman.png)
+![bild](Bilder/huffman.png)
 ### Erstellen der Codetabelle:
 K: 1100
 o: 1101
@@ -50,4 +50,4 @@ Bitbreite für Wiederholungszähler: Da 20 in binärer Darstellung 5 Bits benöt
 Wenn das Bild nur aus einer Farbe besteht: Der RLC würde dies sehr effizient komprimieren, indem die gesamte Bildinformation mit einer einzigen Angabe der Farbe und der Anzahl von 400 (20x20) dargestellt wird.
 
 ## 4
-![bild](bilder/pixl.png)
+![bild](Bilder/pixl.png)
